@@ -28,14 +28,5 @@ Também entendi que testar não é apenas uma atividade técnica, mas uma forma 
 
 ## Evidências de estudo
 
-As anotações feitas durante esta etapa estão disponíveis na pasta `imagens/`.
+As anotações feitas durante esta etapa estão disponíveis na pasta `images/`.
 
-Exemplos de registros:
-
-![Anotações sobre História do Teste de Software](../imagens/historia-teste-01.jpeg)
-
-![Anotações sobre O que é Teste de Software](../imagens/o-que-e-teste-01.jpeg)
-
-## Status
-
-Concluído.
