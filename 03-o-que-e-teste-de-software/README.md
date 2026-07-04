@@ -1,4 +1,4 @@
-**# 03 - O que é Teste de Software
+# 03 - O que é Teste de Software
 
 Esta pasta documenta meus estudos sobre os conceitos fundamentais de Teste de Software.
 
