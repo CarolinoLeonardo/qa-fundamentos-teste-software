@@ -42,21 +42,17 @@ qa-fundamentos-teste-software
 │
 ├── README.md
 │
-├── docs
-│   ├── historia-do-teste.md
-│   ├── fundamentos.md
-│   ├── casos-de-teste.md
-│   ├── bug-report.md
-│   ├── fases-de-teste.md
-│   ├── tecnicas-de-teste.md
-│   ├── tipos-de-teste.md
-│   └── testes-ageis.md
 │
-├── templates
-│   ├── modelo-caso-de-teste.md
-│   └── modelo-bug-report.md
+├── 01-introducao/
+│   └── README.md
 │
-└── projeto-pratico
+├── 02-historia-do-teste/
+│   └── README.md
+│
+├── 03-o-que-e-teste-de-software/
+│   └── README.md
+│
+└── imagens/
 ```
 ---
 
@@ -64,9 +60,9 @@ qa-fundamentos-teste-software
 
 | Etapa | Status |
 |--------|--------|
-| Introdução |  |
-| História do Teste |  |
-| O que é Teste de Software |  |
+| Introdução | ✅ |
+| História do Teste | ✅ |
+| O que é Teste de Software | ✅ |
 | Bugs Reais |  |
 | Casos de Teste |  |
 | Erro, Defeito e Falha |  |
@@ -78,6 +74,3 @@ qa-fundamentos-teste-software
 | Curso Finalizado |  |
 
 ---
-- 🎓 ADS - Estácio
-- 🌎 Campinas/SP
-- 🔗 LinkedIn: https://www.linkedin.com/in/leonardocarolino
