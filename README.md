@@ -52,6 +52,21 @@ qa-fundamentos-teste-software
 ├── 03-o-que-e-teste-de-software/
 │   └── README.md
 │
+├── 04-bugs-reais/
+│   └── README.md
+│
+├── 05-casos-de-teste/
+│   └── README.md
+│
+├── 06-linguagem-gherkin/
+│   └── README.md
+│
+├── 07-ferramentas-de-teste/
+│   └── README.md
+│
+├── 08-ciclo-de-vida-do-bug/
+│   └── README.md
+│
 └── imagens/
 ```
 ---
