@@ -63,9 +63,9 @@ qa-fundamentos-teste-software
 | Introdução | ✅ |
 | História do Teste | ✅ |
 | O que é Teste de Software | ✅ |
-| Bugs Reais |  |
-| Casos de Teste |  |
-| Erro, Defeito e Falha |  |
+| Bugs Reais | ✅ |
+| Casos de Teste | ✅ |
+| Erro, Defeito e Falha | ✅ |
 | Fases de Teste |  |
 | Técnicas de Teste |  |
 | Tipos de Teste |  |
