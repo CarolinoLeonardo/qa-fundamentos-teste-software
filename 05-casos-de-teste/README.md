@@ -88,6 +88,7 @@ Exemplos:
 | wag.torres | 123456 | Acesso realizado com sucesso.              |
 | wag.torres | 123455 | Usuário ou senha inválidos                  |
 | wag.torres | 123456 | Usuário bloqueado                           |
+|            |        | Campo obrigatório: usuário; Campo obrigatório: senha |
 
 ---
 
@@ -121,4 +122,3 @@ O uso da linguagem Gherkin ajuda a aproximar a documentação técnica das regra
 
 ✅ Concluído.
 
-|            |        | Campo obrigatório: usuário; Campo obrigatório: senha |
