@@ -88,4 +88,37 @@ Exemplos:
 | wag.torres | 123456 | Acesso realizado com sucesso.              |
 | wag.torres | 123455 | Usuário ou senha inválidos                  |
 | wag.torres | 123456 | Usuário bloqueado                           |
+
+---
+
+# Exemplo prático: Login
+
+Um exemplo de caso de teste pode envolver a autenticação de um usuário.
+
+| Passo | Ação                   | Resultado esperado                                |
+| ----- | ---------------------- | ------------------------------------------------- |
+| 1     | Acessar o site         | O navegador deve exibir a tela inicial            |
+| 2     | Clicar no botão Entrar | O sistema deve solicitar e-mail e senha           |
+| 3     | Digitar e-mail válido  | O e-mail deve ser exibido no campo correto        |
+| 4     | Digitar senha válida   | A senha deve ser exibida de forma criptografada   |
+| 5     | Clicar em Entrar       | O usuário deve ser direcionado para a área logada |
+
+## Conclusão
+
+Nesta etapa, compreendi que casos de teste são fundamentais para organizar a validação de um sistema.
+
+Também entendi que existem diferentes níveis de detalhamento, desde scripts bem específicos até cenários mais flexíveis.
+
+O uso da linguagem Gherkin ajuda a aproximar a documentação técnica das regras de negócio, facilitando a comunicação entre QA, desenvolvimento, produto e stakeholders.
+
+## Evidências de estudo
+
+![Casos de Teste 1](https://github.com/CarolinoLeonardo/qa-fundamentos-teste-software/blob/main/images/casos_teste1.jpeg)
+
+![Casos de Teste 2](https://github.com/CarolinoLeonardo/qa-fundamentos-teste-software/blob/main/images/casos_teste2.jpeg)
+
+## Status
+
+✅ Concluído.
+
 |            |        | Campo obrigatório: usuário; Campo obrigatório: senha |
