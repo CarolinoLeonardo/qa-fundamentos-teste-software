@@ -246,7 +246,8 @@ if (usuarioValido && senhaValida) {
   permitirAcesso();
 } else {
   negarAcesso();
-}```
+}
+```
 
 Neste caso, alguns testes importantes seriam:
 
