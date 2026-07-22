@@ -241,13 +241,11 @@ O objetivo do teste de condição é validar se as decisões internas do código
 
 Imagine uma condição de login:
 
-```js
 if (usuarioValido && senhaValida) {
   permitirAcesso();
 } else {
   negarAcesso();
 }
-```
 
 Neste caso, alguns testes importantes seriam:
 
