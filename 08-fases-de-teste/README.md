@@ -1,4 +1,4 @@
-# 11 - Fases de Teste
+# 08 - Fases de Teste
 
 Esta pasta documenta meus estudos sobre as principais fases de teste dentro do processo de desenvolvimento de software.
 
