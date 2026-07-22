@@ -81,11 +81,11 @@ qa-fundamentos-teste-software
 | Bugs Reais | ✅ |
 | Casos de Teste | ✅ |
 | Erro, Defeito e Falha | ✅ |
-| Fases de Teste |  |
-| Técnicas de Teste |  |
-| Tipos de Teste |  |
-| Testes Ágeis |  |
-| Automação |  |
-| Curso Finalizado |  |
+| Fases de Teste | ✅ |
+| Técnicas de Teste | ✅ |
+| Tipos de Teste |✅ |
+| Testes Ágeis | ✅ |
+| Automação | ✅ |
+| Curso Finalizado | ✅ |
 
 ---
