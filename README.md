@@ -35,42 +35,6 @@ Ao final deste estudo, o objetivo é ser capaz de:
 
 ---
 
-# 📂 Estrutura do Repositório
-
-```
-qa-fundamentos-teste-software
-│
-├── README.md
-│
-│
-├── 01-introducao/
-│   └── README.md
-│
-├── 02-historia-do-teste/
-│   └── README.md
-│
-├── 03-o-que-e-teste-de-software/
-│   └── README.md
-│
-├── 04-bugs-reais/
-│   └── README.md
-│
-├── 05-casos-de-teste/
-│   └── README.md
-│
-├── 06-linguagem-gherkin/
-│   └── README.md
-│
-├── 07-ferramentas-de-teste/
-│   └── README.md
-│
-├── 08-ciclo-de-vida-do-bug/
-│   └── README.md
-│
-└── imagens/
-```
----
-
 # 📅 Progresso
 
 | Etapa | Status |
